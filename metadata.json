@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Give Me a Light (借个火)",
+  "description": "A warm, community-driven social app for tobacco enthusiasts to connect, help each other out, and share their passion. Features location-based discovery, AI-assisted reviews, and group buying.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
